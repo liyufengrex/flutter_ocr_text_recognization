@@ -2,7 +2,10 @@
 
 依赖 google_mlkit_text_recognition 实现的 OCR 文本识别相机，支持局部识别。
 
-![示例.gif](https://p6-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/3964e042c89c45dc95ed28d2f131c375~tplv-k3u1fbpfcp-jj-mark:0:0:0:0:q75.image#?w=360&h=782&s=7377669&e=gif&f=122&b=f5f5f5)
+<p float="left">
+  <img src="https://github.com/liyufengrex/flutter_ocr_text_recognization/blob/main/example/lib/1702452133101.gif" width="300" />
+</p>
+
 
 ## 使用方式
 
