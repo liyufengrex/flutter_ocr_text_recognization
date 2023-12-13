@@ -17,7 +17,7 @@ dependencies:
 ```
 
 ```dart
-import 'package:flutter_ocr_text_recognization/flutter_ocr_text_scan.dart';
+import 'package:flutter_ocr_text_recognization/flutter_ocr_text_recognization.dart';
 ```
 
 示例：

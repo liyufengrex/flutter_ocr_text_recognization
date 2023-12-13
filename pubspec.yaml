@@ -5,7 +5,7 @@ author: lixiaohong<liyufengisme@gmail.com>
 homepage: https://github.com/liyufengrex/flutter_ocr_text_recognization
 
 environment:
-  sdk: '>=2.16.0'
+  sdk: '>=2.16.0 < 4.0.0'
 
 dependencies:
   flutter:
