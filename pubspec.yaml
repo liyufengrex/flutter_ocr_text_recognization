@@ -1,7 +1,7 @@
 name: flutter_ocr_text_recognization
 description: 依赖 google_mlkit_text_recognition 实现的 OCR 文本识别相机，支持局部识别
 version: 0.0.1
-homepage:
+homepage: https://github.com/liyufengrex/flutter_ocr_text_recognization
 
 environment:
   sdk: '>=2.16.0'
